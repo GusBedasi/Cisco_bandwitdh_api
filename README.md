@@ -16,4 +16,7 @@
       10485760    1966080         3932160
 
 * Bibilioteca utilizada:
-   Requests do python
+      Requests do python
+   
+* Para baixar a lib:
+      pip install requests ou pip3 install requests
